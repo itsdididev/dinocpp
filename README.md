@@ -2,7 +2,11 @@
 
 Clon del juego del dinosaurio de Chrome cuando no hay internet, hecho en C++ con raylib. Todo se dibuja con formas, sin imagenes.
 
-## Jugar (sin compilar)
+## Jugar en el navegador
+
+https://itsdididev.github.io/dinocpp/ (sin instalar nada, funciona aunque Windows bloquee el .exe)
+
+## Jugar con el .exe (Windows)
 
 1. Ve a la pagina de [Releases](https://github.com/itsdididev/dinocpp/releases/latest).
 2. Descarga `dino.exe` (Windows 64 bits).
